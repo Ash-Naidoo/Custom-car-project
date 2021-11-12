@@ -1,2 +1,3 @@
 # Custom-car-project
-# HTMl,CSS,Javscript,Bootstrap
+Languages used HTML,CSS,Javascript,Bootstrap
+
